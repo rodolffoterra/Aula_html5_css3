@@ -1,0 +1,26 @@
+body{
+    background: #ADD8E6;
+    margin-left: 100;  
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1 { color: red;
+}
+h1 { font-family: arial;
+}
+h2 { font-family: arial;
+}
+h2 { color: red;
+}
+
+p {
+    font-size: 22xp;
+}
+
+.img_padrao {
+    margin-bottom: 20xp;    
+}
+
